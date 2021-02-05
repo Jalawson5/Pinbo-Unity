@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 21d3a13d64186244fb5e4827730f766d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8239137320716627811
+    second: mr-pinbo-sprite-sheet-4x-no-grid_0
+  - first:
+      213: 7925375120642540020
+    second: mr-pinbo-sprite-sheet-4x-no-grid_1
+  - first:
+      213: 214582392452080320
+    second: mr-pinbo-sprite-sheet-4x-no-grid_2
+  - first:
+      213: -6320013638594643336
+    second: mr-pinbo-sprite-sheet-4x-no-grid_3
+  - first:
+      213: -2235858443361587333
+    second: mr-pinbo-sprite-sheet-4x-no-grid_4
+  - first:
+      213: 6394880543776213221
+    second: mr-pinbo-sprite-sheet-4x-no-grid_5
+  - first:
+      213: -3771723696012339958
+    second: mr-pinbo-sprite-sheet-4x-no-grid_6
+  - first:
+      213: 1310726450538138145
+    second: mr-pinbo-sprite-sheet-4x-no-grid_7
+  - first:
+      213: -2676288932286475733
+    second: mr-pinbo-sprite-sheet-4x-no-grid_8
+  - first:
+      213: -7395468116608899038
+    second: mr-pinbo-sprite-sheet-4x-no-grid_9
+  - first:
+      213: -5110185621526594108
+    second: mr-pinbo-sprite-sheet-4x-no-grid_10
+  - first:
+      213: 6860520963846293739
+    second: mr-pinbo-sprite-sheet-4x-no-grid_11
+  - first:
+      213: -7914583890318372739
+    second: mr-pinbo-sprite-sheet-4x-no-grid_12
+  - first:
+      213: -8051605106090168700
+    second: mr-pinbo-sprite-sheet-4x-no-grid_13
+  - first:
+      213: -3176245818165536300
+    second: mr-pinbo-sprite-sheet-4x-no-grid_14
+  - first:
+      213: 1501543428154513105
+    second: mr-pinbo-sprite-sheet-4x-no-grid_15
+  - first:
+      213: 2699015282456929287
+    second: mr-pinbo-sprite-sheet-4x-no-grid_16
+  - first:
+      213: 6217550224647248875
+    second: mr-pinbo-sprite-sheet-4x-no-grid_17
+  - first:
+      213: -6936999513367157950
+    second: mr-pinbo-sprite-sheet-4x-no-grid_18
+  - first:
+      213: 2536218239116602804
+    second: mr-pinbo-sprite-sheet-4x-no-grid_19
+  - first:
+      213: 4627307496111657788
+    second: mr-pinbo-sprite-sheet-4x-no-grid_20
+  - first:
+      213: -2766971755330607298
+    second: mr-pinbo-sprite-sheet-4x-no-grid_21
+  - first:
+      213: -448290647849841951
+    second: mr-pinbo-sprite-sheet-4x-no-grid_22
+  - first:
+      213: 106279968897147548
+    second: mr-pinbo-sprite-sheet-4x-no-grid_23
+  - first:
+      213: 202854292200024421
+    second: mr-pinbo-sprite-sheet-4x-no-grid_24
+  - first:
+      213: -2483770043542797092
+    second: mr-pinbo-sprite-sheet-4x-no-grid_25
+  - first:
+      213: -7024671134186484325
+    second: mr-pinbo-sprite-sheet-4x-no-grid_26
+  - first:
+      213: 3534618593066949660
+    second: mr-pinbo-sprite-sheet-4x-no-grid_27
+  - first:
+      213: 2975111753041200697
+    second: mr-pinbo-sprite-sheet-4x-no-grid_28
+  - first:
+      213: -8310453653214363129
+    second: mr-pinbo-sprite-sheet-4x-no-grid_29
+  - first:
+      213: 6651034060506486866
+    second: mr-pinbo-sprite-sheet-4x-no-grid_30
+  - first:
+      213: 7268188703191288422
+    second: mr-pinbo-sprite-sheet-4x-no-grid_31
+  - first:
+      213: 5572961093335722252
+    second: mr-pinbo-sprite-sheet-4x-no-grid_32
+  - first:
+      213: 4646270074245525331
+    second: mr-pinbo-sprite-sheet-4x-no-grid_33
+  - first:
+      213: 3534335070923652445
+    second: mr-pinbo-sprite-sheet-4x-no-grid_34
+  - first:
+      213: -4121801912442798112
+    second: mr-pinbo-sprite-sheet-4x-no-grid_35
+  - first:
+      213: 2087198523809425844
+    second: mr-pinbo-sprite-sheet-4x-no-grid_36
+  - first:
+      213: 4417827100260156995
+    second: mr-pinbo-sprite-sheet-4x-no-grid_37
+  - first:
+      213: -9076895205320154178
+    second: mr-pinbo-sprite-sheet-4x-no-grid_38
+  - first:
+      213: -8886005173415648540
+    second: mr-pinbo-sprite-sheet-4x-no-grid_39
+  - first:
+      213: -4940931919075593305
+    second: mr-pinbo-sprite-sheet-4x-no-grid_40
+  - first:
+      213: -8495042484696522497
+    second: mr-pinbo-sprite-sheet-4x-no-grid_41
+  - first:
+      213: -3208797888612446632
+    second: mr-pinbo-sprite-sheet-4x-no-grid_42
+  - first:
+      213: -1162421483284743519
+    second: mr-pinbo-sprite-sheet-4x-no-grid_43
+  - first:
+      213: 4340822049481483816
+    second: mr-pinbo-sprite-sheet-4x-no-grid_44
+  - first:
+      213: 5475755180243248162
+    second: mr-pinbo-sprite-sheet-4x-no-grid_45
+  - first:
+      213: -427630786335600617
+    second: mr-pinbo-sprite-sheet-4x-no-grid_46
+  - first:
+      213: 4862066086525261494
+    second: mr-pinbo-sprite-sheet-4x-no-grid_47
+  - first:
+      213: -104004245529911544
+    second: mr-pinbo-sprite-sheet-4x-no-grid_48
+  - first:
+      213: -37184034556643878
+    second: mr-pinbo-sprite-sheet-4x-no-grid_49
+  - first:
+      213: 1250994747005008495
+    second: mr-pinbo-sprite-sheet-4x-no-grid_50
+  - first:
+      213: 1318650563907287457
+    second: mr-pinbo-sprite-sheet-4x-no-grid_51
+  - first:
+      213: -8682137003609962622
+    second: mr-pinbo-sprite-sheet-4x-no-grid_52
+  - first:
+      213: 8520907466677142459
+    second: mr-pinbo-sprite-sheet-4x-no-grid_53
+  - first:
+      213: 551546309046156423
+    second: mr-pinbo-sprite-sheet-4x-no-grid_54
+  - first:
+      213: 2663581518452112075
+    second: mr-pinbo-sprite-sheet-4x-no-grid_55
+  - first:
+      213: 7277289661770032203
+    second: mr-pinbo-sprite-sheet-4x-no-grid_56
+  - first:
+      213: -1160322752602432539
+    second: mr-pinbo-sprite-sheet-4x-no-grid_57
+  - first:
+      213: -5942944685495685746
+    second: mr-pinbo-sprite-sheet-4x-no-grid_58
+  - first:
+      213: -4144757284526852298
+    second: mr-pinbo-sprite-sheet-4x-no-grid_59
+  - first:
+      213: -1176738010558964908
+    second: mr-pinbo-sprite-sheet-4x-no-grid_60
+  - first:
+      213: -3412844018309156439
+    second: mr-pinbo-sprite-sheet-4x-no-grid_61
+  - first:
+      213: -5213378599116301850
+    second: mr-pinbo-sprite-sheet-4x-no-grid_62
+  - first:
+      213: 5424002136081726761
+    second: mr-pinbo-sprite-sheet-4x-no-grid_63
+  - first:
+      213: 6184464274727298765
+    second: mr-pinbo-sprite-sheet-4x-no-grid_64
+  - first:
+      213: -32756013440436659
+    second: mr-pinbo-sprite-sheet-4x-no-grid_65
+  - first:
+      213: -2294321052636475274
+    second: mr-pinbo-sprite-sheet-4x-no-grid_66
+  - first:
+      213: 8165956472278473744
+    second: mr-pinbo-sprite-sheet-4x-no-grid_67
+  - first:
+      213: 885247336832348335
+    second: mr-pinbo-sprite-sheet-4x-no-grid_68
+  - first:
+      213: -8094030099450985940
+    second: mr-pinbo-sprite-sheet-4x-no-grid_69
+  - first:
+      213: -2355366958103265386
+    second: mr-pinbo-sprite-sheet-4x-no-grid_70
+  - first:
+      213: -7756542214484988796
+    second: mr-pinbo-sprite-sheet-4x-no-grid_71
+  - first:
+      213: 861116559824646819
+    second: mr-pinbo-sprite-sheet-4x-no-grid_72
+  - first:
+      213: -8974255167058604833
+    second: mr-pinbo-sprite-sheet-4x-no-grid_73
+  - first:
+      213: 7278343270628599436
+    second: mr-pinbo-sprite-sheet-4x-no-grid_74
+  - first:
+      213: 7517772548735997689
+    second: mr-pinbo-sprite-sheet-4x-no-grid_75
+  - first:
+      213: -8875012329066867375
+    second: mr-pinbo-sprite-sheet-4x-no-grid_76
+  - first:
+      213: -4211552954606768108
+    second: mr-pinbo-sprite-sheet-4x-no-grid_77
+  - first:
+      213: 7766281331822341160
+    second: mr-pinbo-sprite-sheet-4x-no-grid_78
+  - first:
+      213: -1679397117019462663
+    second: mr-pinbo-sprite-sheet-4x-no-grid_79
+  - first:
+      213: 3625493706888192247
+    second: mr-pinbo-sprite-sheet-4x-no-grid_80
+  - first:
+      213: 3294076518147120709
+    second: mr-pinbo-sprite-sheet-4x-no-grid_81
+  - first:
+      213: 3890175886125838765
+    second: mr-pinbo-sprite-sheet-4x-no-grid_82
+  - first:
+      213: 7325379045231670237
+    second: mr-pinbo-sprite-sheet-4x-no-grid_83
+  - first:
+      213: -5607775858806520587
+    second: mr-pinbo-sprite-sheet-4x-no-grid_84
+  - first:
+      213: -6971076807121288043
+    second: mr-pinbo-sprite-sheet-4x-no-grid_85
+  - first:
+      213: 581829219737965414
+    second: mr-pinbo-sprite-sheet-4x-no-grid_86
+  - first:
+      213: 5268647950908801659
+    second: mr-pinbo-sprite-sheet-4x-no-grid_87
+  - first:
+      213: -5340819616876611116
+    second: mr-pinbo-sprite-sheet-4x-no-grid_88
+  - first:
+      213: -7253308478364663397
+    second: mr-pinbo-sprite-sheet-4x-no-grid_89
+  - first:
+      213: 4514211280851701182
+    second: mr-pinbo-sprite-sheet-4x-no-grid_90
+  - first:
+      213: -8231072776446354406
+    second: mr-pinbo-sprite-sheet-4x-no-grid_91
+  - first:
+      213: -226056425796293822
+    second: mr-pinbo-sprite-sheet-4x-no-grid_92
+  - first:
+      213: -4963694020383205676
+    second: mr-pinbo-sprite-sheet-4x-no-grid_93
+  - first:
+      213: -4616030459052001111
+    second: mr-pinbo-sprite-sheet-4x-no-grid_94
+  - first:
+      213: -7241708327156598448
+    second: mr-pinbo-sprite-sheet-4x-no-grid_95
+  - first:
+      213: -1175764224157769563
+    second: mr-pinbo-sprite-sheet-4x-no-grid_96
+  - first:
+      213: 858108599815981571
+    second: mr-pinbo-sprite-sheet-4x-no-grid_97
+  - first:
+      213: 928415835470013428
+    second: mr-pinbo-sprite-sheet-4x-no-grid_98
+  - first:
+      213: 1970380953382973357
+    second: mr-pinbo-sprite-sheet-4x-no-grid_99
+  - first:
+      213: -756464455702743812
+    second: mr-pinbo-sprite-sheet-4x-no-grid_100
+  - first:
+      213: -5517559119728956272
+    second: mr-pinbo-sprite-sheet-4x-no-grid_101
+  - first:
+      213: -6351180279306840049
+    second: mr-pinbo-sprite-sheet-4x-no-grid_102
+  - first:
+      213: -384178492038103969
+    second: mr-pinbo-sprite-sheet-4x-no-grid_103
+  - first:
+      213: 1174117388660431398
+    second: mr-pinbo-sprite-sheet-4x-no-grid_104
+  - first:
+      213: 5938131517589433567
+    second: mr-pinbo-sprite-sheet-4x-no-grid_105
+  - first:
+      213: 9177867220570952318
+    second: mr-pinbo-sprite-sheet-4x-no-grid_106
+  - first:
+      213: -1643557916634018571
+    second: mr-pinbo-sprite-sheet-4x-no-grid_107
+  - first:
+      213: 1732262651380008281
+    second: mr-pinbo-sprite-sheet-4x-no-grid_108
+  - first:
+      213: -947551388058205222
+    second: mr-pinbo-sprite-sheet-4x-no-grid_109
+  - first:
+      213: -1133933211033715850
+    second: mr-pinbo-sprite-sheet-4x-no-grid_110
+  - first:
+      213: -600017704445876373
+    second: mr-pinbo-sprite-sheet-4x-no-grid_111
+  - first:
+      213: -6042220763974177057
+    second: mr-pinbo-sprite-sheet-4x-no-grid_112
+  - first:
+      213: 4270467171677751326
+    second: mr-pinbo-sprite-sheet-4x-no-grid_113
+  - first:
+      213: 7252249715972474125
+    second: mr-pinbo-sprite-sheet-4x-no-grid_114
+  - first:
+      213: -2373888387619364263
+    second: mr-pinbo-sprite-sheet-4x-no-grid_115
+  - first:
+      213: -893546069370115774
+    second: mr-pinbo-sprite-sheet-4x-no-grid_116
+  - first:
+      213: 7513551434079211538
+    second: mr-pinbo-sprite-sheet-4x-no-grid_117
+  - first:
+      213: -7183337874053927615
+    second: mr-pinbo-sprite-sheet-4x-no-grid_118
+  - first:
+      213: 5403978136494188757
+    second: mr-pinbo-sprite-sheet-4x-no-grid_119
+  - first:
+      213: -6027443602788587862
+    second: mr-pinbo-sprite-sheet-4x-no-grid_120
+  - first:
+      213: 7756686106746949450
+    second: mr-pinbo-sprite-sheet-4x-no-grid_121
+  - first:
+      213: -4439066801646285351
+    second: mr-pinbo-sprite-sheet-4x-no-grid_122
+  - first:
+      213: 5239290492570138560
+    second: mr-pinbo-sprite-sheet-4x-no-grid_123
+  - first:
+      213: -675640724157753692
+    second: mr-pinbo-sprite-sheet-4x-no-grid_124
+  - first:
+      213: 8039206029403540444
+    second: mr-pinbo-sprite-sheet-4x-no-grid_125
+  - first:
+      213: 8659487304657775420
+    second: mr-pinbo-sprite-sheet-4x-no-grid_126
+  - first:
+      213: -3343122037962083756
+    second: mr-pinbo-sprite-sheet-4x-no-grid_127
+  - first:
+      213: -250633504194647069
+    second: mr-pinbo-sprite-sheet-4x-no-grid_128
+  - first:
+      213: -8760574935876765754
+    second: mr-pinbo-sprite-sheet-4x-no-grid_129
+  - first:
+      213: -6855247979795668440
+    second: mr-pinbo-sprite-sheet-4x-no-grid_130
+  - first:
+      213: -9048344603640129751
+    second: mr-pinbo-sprite-sheet-4x-no-grid_131
+  - first:
+      213: -7288880551796513946
+    second: mr-pinbo-sprite-sheet-4x-no-grid_132
+  - first:
+      213: -7626005023947995235
+    second: mr-pinbo-sprite-sheet-4x-no-grid_133
+  - first:
+      213: 3285593136454452519
+    second: mr-pinbo-sprite-sheet-4x-no-grid_134
+  - first:
+      213: 2565866715435732055
+    second: mr-pinbo-sprite-sheet-4x-no-grid_135
+  - first:
+      213: -8429694197988386175
+    second: mr-pinbo-sprite-sheet-4x-no-grid_136
+  - first:
+      213: 8245933452030851753
+    second: mr-pinbo-sprite-sheet-4x-no-grid_137
+  - first:
+      213: 657174562560747264
+    second: mr-pinbo-sprite-sheet-4x-no-grid_138
+  - first:
+      213: -8818005180460273087
+    second: mr-pinbo-sprite-sheet-4x-no-grid_139
+  - first:
+      213: 2185462029154559880
+    second: mr-pinbo-sprite-sheet-4x-no-grid_140
+  - first:
+      213: -4523422253161133703
+    second: mr-pinbo-sprite-sheet-4x-no-grid_141
+  - first:
+      213: -6031285488953720851
+    second: mr-pinbo-sprite-sheet-4x-no-grid_142
+  - first:
+      213: 2816768995764401848
+    second: mr-pinbo-sprite-sheet-4x-no-grid_143
+  - first:
+      213: -6766718895900052364
+    second: mr-pinbo-sprite-sheet-4x-no-grid_144
+  - first:
+      213: 7887255562204521837
+    second: mr-pinbo-sprite-sheet-4x-no-grid_145
+  - first:
+      213: -3471621093068806394
+    second: mr-pinbo-sprite-sheet-4x-no-grid_146
+  - first:
+      213: -2107866847528556598
+    second: mr-pinbo-sprite-sheet-4x-no-grid_147
+  - first:
+      213: 1983127986972210538
+    second: mr-pinbo-sprite-sheet-4x-no-grid_148
+  - first:
+      213: 7922796314234607170
+    second: mr-pinbo-sprite-sheet-4x-no-grid_149
+  - first:
+      213: 7161179829995152115
+    second: mr-pinbo-sprite-sheet-4x-no-grid_150
+  - first:
+      213: 4527950160554029593
+    second: mr-pinbo-sprite-sheet-4x-no-grid_151
+  - first:
+      213: -2339440473886995926
+    second: mr-pinbo-sprite-sheet-4x-no-grid_152
+  - first:
+      213: 8096717840888479159
+    second: mr-pinbo-sprite-sheet-4x-no-grid_153
+  - first:
+      213: 2501419597824691869
+    second: mr-pinbo-sprite-sheet-4x-no-grid_154
+  - first:
+      213: -2818125402161887370
+    second: mr-pinbo-sprite-sheet-4x-no-grid_155
+  - first:
+      213: -8296727961663444715
+    second: mr-pinbo-sprite-sheet-4x-no-grid_156
+  - first:
+      213: -9104602647937160764
+    second: mr-pinbo-sprite-sheet-4x-no-grid_157
+  - first:
+      213: -6456500690330390577
+    second: mr-pinbo-sprite-sheet-4x-no-grid_158
+  - first:
+      213: 743185088315726493
+    second: mr-pinbo-sprite-sheet-4x-no-grid_159
+  - first:
+      213: -4126842216965378059
+    second: mr-pinbo-sprite-sheet-4x-no-grid_160
+  - first:
+      213: 2346697887287215894
+    second: mr-pinbo-sprite-sheet-4x-no-grid_161
+  - first:
+      213: 870715555675914130
+    second: mr-pinbo-sprite-sheet-4x-no-grid_162
+  - first:
+      213: -8725127367326672086
+    second: mr-pinbo-sprite-sheet-4x-no-grid_163
+  - first:
+      213: 1192114750276967739
+    second: mr-pinbo-sprite-sheet-4x-no-grid_164
+  - first:
+      213: -6542487381523534119
+    second: mr-pinbo-sprite-sheet-4x-no-grid_165
+  - first:
+      213: -7316024144078030473
+    second: mr-pinbo-sprite-sheet-4x-no-grid_166
+  - first:
+      213: -6693830896028538734
+    second: mr-pinbo-sprite-sheet-4x-no-grid_167
+  - first:
+      213: 7122097685337262724
+    second: mr-pinbo-sprite-sheet-4x-no-grid_168
+  - first:
+      213: 643000392815364095
+    second: mr-pinbo-sprite-sheet-4x-no-grid_169
+  - first:
+      213: -107327409102097540
+    second: mr-pinbo-sprite-sheet-4x-no-grid_170
+  - first:
+      213: -2674871780810969866
+    second: mr-pinbo-sprite-sheet-4x-no-grid_171
+  - first:
+      213: 3642282296769948895
+    second: mr-pinbo-sprite-sheet-4x-no-grid_172
+  - first:
+      213: 4736485964802416218
+    second: mr-pinbo-sprite-sheet-4x-no-grid_173
+  - first:
+      213: -6643653921098244074
+    second: mr-pinbo-sprite-sheet-4x-no-grid_174
+  - first:
+      213: -4441100314425678553
+    second: mr-pinbo-sprite-sheet-4x-no-grid_175
+  - first:
+      213: -490254971115393604
+    second: mr-pinbo-sprite-sheet-4x-no-grid_176
+  - first:
+      213: 6976462290281151912
+    second: mr-pinbo-sprite-sheet-4x-no-grid_177
+  - first:
+      213: 4712862345795681420
+    second: mr-pinbo-sprite-sheet-4x-no-grid_178
+  - first:
+      213: 2976667588914549873
+    second: mr-pinbo-sprite-sheet-4x-no-grid_179
+  - first:
+      213: -1353867325159193748
+    second: mr-pinbo-sprite-sheet-4x-no-grid_180
+  - first:
+      213: 2972579762790218096
+    second: mr-pinbo-sprite-sheet-4x-no-grid_181
+  - first:
+      213: 3975251196267975694
+    second: mr-pinbo-sprite-sheet-4x-no-grid_182
+  - first:
+      213: -6606026598759687438
+    second: mr-pinbo-sprite-sheet-4x-no-grid_183
+  - first:
+      213: 1617843620349947924
+    second: mr-pinbo-sprite-sheet-4x-no-grid_184
+  - first:
+      213: -9090031141603155279
+    second: mr-pinbo-sprite-sheet-4x-no-grid_185
+  - first:
+      213: 3701545445680587536
+    second: mr-pinbo-sprite-sheet-4x-no-grid_186
+  - first:
+      213: 8727183603540419129
+    second: mr-pinbo-sprite-sheet-4x-no-grid_187
+  - first:
+      213: 8501195757935384563
+    second: mr-pinbo-sprite-sheet-4x-no-grid_188
+  - first:
+      213: -9218948642693593722
+    second: mr-pinbo-sprite-sheet-4x-no-grid_189
+  - first:
+      213: 2401283345682136072
+    second: mr-pinbo-sprite-sheet-4x-no-grid_190
+  - first:
+      213: -3342035335744388451
+    second: mr-pinbo-sprite-sheet-4x-no-grid_191
+  - first:
+      213: 1126789847528631074
+    second: mr-pinbo-sprite-sheet-4x-no-grid_192
+  - first:
+      213: -8804898632057054528
+    second: mr-pinbo-sprite-sheet-4x-no-grid_193
+  - first:
+      213: 4453885350375444712
+    second: mr-pinbo-sprite-sheet-4x-no-grid_194
+  - first:
+      213: 4597850818743023356
+    second: mr-pinbo-sprite-sheet-4x-no-grid_195
+  - first:
+      213: -2107184151992486703
+    second: mr-pinbo-sprite-sheet-4x-no-grid_196
+  - first:
+      213: 3884763859039107676
+    second: mr-pinbo-sprite-sheet-4x-no-grid_197
+  - first:
+      213: 7545651724517657042
+    second: mr-pinbo-sprite-sheet-4x-no-grid_198
+  - first:
+      213: -7091034129339062248
+    second: mr-pinbo-sprite-sheet-4x-no-grid_199
+  - first:
+      213: -6012054164289636747
+    second: mr-pinbo-sprite-sheet-4x-no-grid_200
+  - first:
+      213: -537538756304193328
+    second: mr-pinbo-sprite-sheet-4x-no-grid_201
+  - first:
+      213: 486905032888836310
+    second: mr-pinbo-sprite-sheet-4x-no-grid_202
+  - first:
+      213: -1265794588452286906
+    second: mr-pinbo-sprite-sheet-4x-no-grid_203
+  - first:
+      213: -7521351980609846798
+    second: mr-pinbo-sprite-sheet-4x-no-grid_204
+  - first:
+      213: -5504509874667852223
+    second: mr-pinbo-sprite-sheet-4x-no-grid_205
+  - first:
+      213: -5748514224437874088
+    second: mr-pinbo-sprite-sheet-4x-no-grid_206
+  - first:
+      213: -5585828673976437577
+    second: mr-pinbo-sprite-sheet-4x-no-grid_207
+  - first:
+      213: 6269842097853275143
+    second: mr-pinbo-sprite-sheet-4x-no-grid_208
+  - first:
+      213: -6590093621367498680
+    second: mr-pinbo-sprite-sheet-4x-no-grid_209
+  - first:
+      213: -4846827311529387483
+    second: mr-pinbo-sprite-sheet-4x-no-grid_210
+  - first:
+      213: 1526608725544250351
+    second: mr-pinbo-sprite-sheet-4x-no-grid_211
+  - first:
+      213: 1883923086729478936
+    second: mr-pinbo-sprite-sheet-4x-no-grid_212
+  - first:
+      213: -1689575386620085955
+    second: mr-pinbo-sprite-sheet-4x-no-grid_213
+  - first:
+      213: -666473516583889074
+    second: mr-pinbo-sprite-sheet-4x-no-grid_214
+  - first:
+      213: -4060989810667749088
+    second: mr-pinbo-sprite-sheet-4x-no-grid_215
+  - first:
+      213: 9181427366239386887
+    second: mr-pinbo-sprite-sheet-4x-no-grid_216
+  - first:
+      213: 4260279851593000044
+    second: mr-pinbo-sprite-sheet-4x-no-grid_217
+  - first:
+      213: 4046068932179032860
+    second: mr-pinbo-sprite-sheet-4x-no-grid_218
+  - first:
+      213: 2909312538434762513
+    second: mr-pinbo-sprite-sheet-4x-no-grid_219
+  - first:
+      213: 8696889760241002122
+    second: mr-pinbo-sprite-sheet-4x-no-grid_220
+  - first:
+      213: 1616329553244610988
+    second: mr-pinbo-sprite-sheet-4x-no-grid_221
+  - first:
+      213: 1666055188899728166
+    second: mr-pinbo-sprite-sheet-4x-no-grid_222
+  - first:
+      213: 5351617292463515590
+    second: mr-pinbo-sprite-sheet-4x-no-grid_223
+  - first:
+      213: -5253376229847301509
+    second: mr-pinbo-sprite-sheet-4x-no-grid_224
+  - first:
+      213: -2412090248919392178
+    second: mr-pinbo-sprite-sheet-4x-no-grid_225
+  - first:
+      213: 3536293496212153668
+    second: mr-pinbo-sprite-sheet-4x-no-grid_226
+  - first:
+      213: -673312687918194617
+    second: mr-pinbo-sprite-sheet-4x-no-grid_227
+  - first:
+      213: 7125856392207449056
+    second: mr-pinbo-sprite-sheet-4x-no-grid_228
+  - first:
+      213: 2331298621244992849
+    second: mr-pinbo-sprite-sheet-4x-no-grid_229
+  - first:
+      213: 5260838670763394938
+    second: mr-pinbo-sprite-sheet-4x-no-grid_230
+  - first:
+      213: 7860280983855073293
+    second: mr-pinbo-sprite-sheet-4x-no-grid_231
+  - first:
+      213: -6731249761469891642
+    second: mr-pinbo-sprite-sheet-4x-no-grid_232
+  - first:
+      213: 7759851851024907322
+    second: mr-pinbo-sprite-sheet-4x-no-grid_233
+  - first:
+      213: -5999341487422492618
+    second: mr-pinbo-sprite-sheet-4x-no-grid_234
+  - first:
+      213: 7082313757686927052
+    second: mr-pinbo-sprite-sheet-4x-no-grid_235
+  - first:
+      213: -7109129862072131830
+    second: mr-pinbo-sprite-sheet-4x-no-grid_236
+  - first:
+      213: 1457222877371827153
+    second: mr-pinbo-sprite-sheet-4x-no-grid_237
+  - first:
+      213: -265811657016146876
+    second: mr-pinbo-sprite-sheet-4x-no-grid_238
+  - first:
+      213: 1278807783675233744
+    second: mr-pinbo-sprite-sheet-4x-no-grid_239
+  - first:
+      213: -5784900171207089445
+    second: mr-pinbo-sprite-sheet-4x-no-grid_240
+  - first:
+      213: -6430905727593679351
+    second: mr-pinbo-sprite-sheet-4x-no-grid_241
+  - first:
+      213: 3530149271594851143
+    second: mr-pinbo-sprite-sheet-4x-no-grid_242
+  - first:
+      213: -3938588599594252670
+    second: mr-pinbo-sprite-sheet-4x-no-grid_243
+  - first:
+      213: -5048703479390986624
+    second: mr-pinbo-sprite-sheet-4x-no-grid_244
+  - first:
+      213: -2470474991532585907
+    second: mr-pinbo-sprite-sheet-4x-no-grid_245
+  - first:
+      213: -1448987440637655849
+    second: mr-pinbo-sprite-sheet-4x-no-grid_246
+  - first:
+      213: 4298775727441716269
+    second: mr-pinbo-sprite-sheet-4x-no-grid_247
+  - first:
+      213: 1313231075049664456
+    second: mr-pinbo-sprite-sheet-4x-no-grid_248
+  - first:
+      213: 205978707218546900
+    second: mr-pinbo-sprite-sheet-4x-no-grid_249
+  - first:
+      213: -6817284736674138843
+    second: mr-pinbo-sprite-sheet-4x-no-grid_250
+  - first:
+      213: 4004425955681947282
+    second: mr-pinbo-sprite-sheet-4x-no-grid_251
+  - first:
+      213: -9124222628972146559
+    second: mr-pinbo-sprite-sheet-4x-no-grid_252
+  - first:
+      213: -9147325782205772995
+    second: mr-pinbo-sprite-sheet-4x-no-grid_253
+  - first:
+      213: 8990811927986913796
+    second: mr-pinbo-sprite-sheet-4x-no-grid_254
+  - first:
+      213: 1890213461938888802
+    second: mr-pinbo-sprite-sheet-4x-no-grid_255
+  - first:
+      213: -3114994260336325628
+    second: mr-pinbo-sprite-sheet-4x-no-grid_256
+  - first:
+      213: -7994250587471243397
+    second: mr-pinbo-sprite-sheet-4x-no-grid_257
+  - first:
+      213: 8435289147797531500
+    second: mr-pinbo-sprite-sheet-4x-no-grid_258
+  - first:
+      213: 5425960319765759814
+    second: mr-pinbo-sprite-sheet-4x-no-grid_259
+  - first:
+      213: -340488716787197181
+    second: mr-pinbo-sprite-sheet-4x-no-grid_260
+  - first:
+      213: 5293350980328620536
+    second: mr-pinbo-sprite-sheet-4x-no-grid_261
+  - first:
+      213: -354706597815691319
+    second: mr-pinbo-sprite-sheet-4x-no-grid_262
+  - first:
+      213: -3613576417748509951
+    second: mr-pinbo-sprite-sheet-4x-no-grid_263
+  - first:
+      213: -6833809113183315844
+    second: mr-pinbo-sprite-sheet-4x-no-grid_264
+  - first:
+      213: 7745835171191180177
+    second: mr-pinbo-sprite-sheet-4x-no-grid_265
+  - first:
+      213: -4649852966957705551
+    second: mr-pinbo-sprite-sheet-4x-no-grid_266
+  - first:
+      213: -2975558578142843699
+    second: mr-pinbo-sprite-sheet-4x-no-grid_267
+  - first:
+      213: -5856234298085238525
+    second: mr-pinbo-sprite-sheet-4x-no-grid_268
+  - first:
+      213: -7358472963866602340
+    second: mr-pinbo-sprite-sheet-4x-no-grid_269
+  - first:
+      213: -2593714173718274176
+    second: mr-pinbo-sprite-sheet-4x-no-grid_270
+  - first:
+      213: 2572474815325248120
+    second: mr-pinbo-sprite-sheet-4x-no-grid_271
+  - first:
+      213: -283625119223725165
+    second: mr-pinbo-sprite-sheet-4x-no-grid_272
+  - first:
+      213: -7461419449415144384
+    second: mr-pinbo-sprite-sheet-4x-no-grid_273
+  - first:
+      213: -3059855863431505341
+    second: mr-pinbo-sprite-sheet-4x-no-grid_274
+  - first:
+      213: -3222344667507694424
+    second: mr-pinbo-sprite-sheet-4x-no-grid_275
+  - first:
+      213: -6812058301916998086
+    second: mr-pinbo-sprite-sheet-4x-no-grid_276
+  - first:
+      213: 5675329562609198150
+    second: mr-pinbo-sprite-sheet-4x-no-grid_277
+  - first:
+      213: 4531127778648254899
+    second: mr-pinbo-sprite-sheet-4x-no-grid_278
+  - first:
+      213: 5261961205623501329
+    second: mr-pinbo-sprite-sheet-4x-no-grid_279
+  - first:
+      213: -2450701455851231127
+    second: mr-pinbo-sprite-sheet-4x-no-grid_280
+  - first:
+      213: -6873447797192978457
+    second: mr-pinbo-sprite-sheet-4x-no-grid_281
+  - first:
+      213: -2812927127817732431
+    second: mr-pinbo-sprite-sheet-4x-no-grid_282
+  - first:
+      213: 3109520803099232034
+    second: mr-pinbo-sprite-sheet-4x-no-grid_283
+  - first:
+      213: 7715039636357038033
+    second: mr-pinbo-sprite-sheet-4x-no-grid_284
+  - first:
+      213: -826402917288972993
+    second: mr-pinbo-sprite-sheet-4x-no-grid_285
+  - first:
+      213: -4865820703648506067
+    second: mr-pinbo-sprite-sheet-4x-no-grid_286
+  - first:
+      213: -8989731408362447636
+    second: mr-pinbo-sprite-sheet-4x-no-grid_287
+  - first:
+      213: -8301000327981312782
+    second: mr-pinbo-sprite-sheet-4x-no-grid_288
+  - first:
+      213: 1844284393100424666
+    second: mr-pinbo-sprite-sheet-4x-no-grid_289
+  - first:
+      213: 4303121517142843424
+    second: mr-pinbo-sprite-sheet-4x-no-grid_290
+  - first:
+      213: -6106258261596404663
+    second: mr-pinbo-sprite-sheet-4x-no-grid_291
+  - first:
+      213: 7688718408582281592
+    second: mr-pinbo-sprite-sheet-4x-no-grid_292
+  - first:
+      213: -8283442691611800007
+    second: mr-pinbo-sprite-sheet-4x-no-grid_293
+  - first:
+      213: -3011828818159410199
+    second: mr-pinbo-sprite-sheet-4x-no-grid_294
+  - first:
+      213: -289504437792611545
+    second: mr-pinbo-sprite-sheet-4x-no-grid_295
+  - first:
+      213: 5512312724792187728
+    second: mr-pinbo-sprite-sheet-4x-no-grid_296
+  - first:
+      213: 4182229847595117253
+    second: mr-pinbo-sprite-sheet-4x-no-grid_297
+  - first:
+      213: 8769922952217541209
+    second: mr-pinbo-sprite-sheet-4x-no-grid_298
+  - first:
+      213: 5728097114471185177
+    second: mr-pinbo-sprite-sheet-4x-no-grid_299
+  - first:
+      213: -4318663092295836730
+    second: mr-pinbo-sprite-sheet-4x-no-grid_300
+  - first:
+      213: -5778647948339046168
+    second: mr-pinbo-sprite-sheet-4x-no-grid_301
+  - first:
+      213: 4458262861578879492
+    second: mr-pinbo-sprite-sheet-4x-no-grid_302
+  - first:
+      213: -556148528150051847
+    second: mr-pinbo-sprite-sheet-4x-no-grid_303
+  - first:
+      213: 4442918871760534256
+    second: mr-pinbo-sprite-sheet-4x-no-grid_304
+  - first:
+      213: 3231490404698853284
+    second: mr-pinbo-sprite-sheet-4x-no-grid_305
+  - first:
+      213: -6767099514770743796
+    second: mr-pinbo-sprite-sheet-4x-no-grid_306
+  - first:
+      213: 6110575775340612235
+    second: mr-pinbo-sprite-sheet-4x-no-grid_307
+  - first:
+      213: 4244892702632430604
+    second: mr-pinbo-sprite-sheet-4x-no-grid_308
+  - first:
+      213: 8492914552112690881
+    second: mr-pinbo-sprite-sheet-4x-no-grid_309
+  - first:
+      213: -9034648252400891218
+    second: mr-pinbo-sprite-sheet-4x-no-grid_310
+  - first:
+      213: 856663649791966542
+    second: mr-pinbo-sprite-sheet-4x-no-grid_311
+  - first:
+      213: 2133969678825483273
+    second: mr-pinbo-sprite-sheet-4x-no-grid_312
+  - first:
+      213: 7551212562351028991
+    second: mr-pinbo-sprite-sheet-4x-no-grid_313
+  - first:
+      213: 894942087948043761
+    second: mr-pinbo-sprite-sheet-4x-no-grid_314
+  - first:
+      213: -1955888072881461300
+    second: mr-pinbo-sprite-sheet-4x-no-grid_315
+  - first:
+      213: 533321276824130936
+    second: mr-pinbo-sprite-sheet-4x-no-grid_316
+  - first:
+      213: -6772668284420863134
+    second: mr-pinbo-sprite-sheet-4x-no-grid_317
+  - first:
+      213: 6324326828538386621
+    second: mr-pinbo-sprite-sheet-4x-no-grid_318
+  - first:
+      213: -3523256136079141713
+    second: mr-pinbo-sprite-sheet-4x-no-grid_319
+  - first:
+      213: 2966213992908286104
+    second: mr-pinbo-sprite-sheet-4x-no-grid_320
+  - first:
+      213: -2996941544730255913
+    second: mr-pinbo-sprite-sheet-4x-no-grid_321
+  - first:
+      213: 6853903512082208353
+    second: mr-pinbo-sprite-sheet-4x-no-grid_322
+  - first:
+      213: 2093601124347668581
+    second: mr-pinbo-sprite-sheet-4x-no-grid_323
+  - first:
+      213: 4256688725768547070
+    second: mr-pinbo-sprite-sheet-4x-no-grid_324
+  - first:
+      213: -7472794639836763360
+    second: mr-pinbo-sprite-sheet-4x-no-grid_325
+  - first:
+      213: -1913626710160930236
+    second: mr-pinbo-sprite-sheet-4x-no-grid_326
+  - first:
+      213: 1211120109369996948
+    second: mr-pinbo-sprite-sheet-4x-no-grid_327
+  - first:
+      213: 3614303612575980663
+    second: mr-pinbo-sprite-sheet-4x-no-grid_328
+  - first:
+      213: 1586591397450054254
+    second: mr-pinbo-sprite-sheet-4x-no-grid_329
+  - first:
+      213: 5816683611486892243
+    second: mr-pinbo-sprite-sheet-4x-no-grid_330
+  - first:
+      213: 4531720939195819558
+    second: mr-pinbo-sprite-sheet-4x-no-grid_331
+  - first:
+      213: -1863783692118471076
+    second: mr-pinbo-sprite-sheet-4x-no-grid_332
+  - first:
+      213: -6670295771179239602
+    second: mr-pinbo-sprite-sheet-4x-no-grid_333
+  - first:
+      213: 8252265591883768436
+    second: mr-pinbo-sprite-sheet-4x-no-grid_334
+  - first:
+      213: -3298107685257845892
+    second: mr-pinbo-sprite-sheet-4x-no-grid_335
+  - first:
+      213: -1979939574699206239
+    second: mr-pinbo-sprite-sheet-4x-no-grid_336
+  - first:
+      213: -7505964737510208877
+    second: mr-pinbo-sprite-sheet-4x-no-grid_337
+  - first:
+      213: -4137289936526574026
+    second: mr-pinbo-sprite-sheet-4x-no-grid_338
+  - first:
+      213: -8482529790871816571
+    second: mr-pinbo-sprite-sheet-4x-no-grid_339
+  - first:
+      213: -1660701714699059550
+    second: mr-pinbo-sprite-sheet-4x-no-grid_340
+  - first:
+      213: 9213941849393435865
+    second: mr-pinbo-sprite-sheet-4x-no-grid_341
+  - first:
+      213: 1705198381474365904
+    second: mr-pinbo-sprite-sheet-4x-no-grid_342
+  - first:
+      213: -3062661485701960107
+    second: mr-pinbo-sprite-sheet-4x-no-grid_343
+  - first:
+      213: 2154163929774635389
+    second: mr-pinbo-sprite-sheet-4x-no-grid_344
+  - first:
+      213: 787537447124178423
+    second: mr-pinbo-sprite-sheet-4x-no-grid_345
+  - first:
+      213: 5772665791186643797
+    second: mr-pinbo-sprite-sheet-4x-no-grid_346
+  - first:
+      213: -3217347153208332979
+    second: mr-pinbo-sprite-sheet-4x-no-grid_347
+  - first:
+      213: -2998263050745802678
+    second: mr-pinbo-sprite-sheet-4x-no-grid_348
+  - first:
+      213: -853297263574051801
+    second: mr-pinbo-sprite-sheet-4x-no-grid_349
+  - first:
+      213: 7781227247975666317
+    second: mr-pinbo-sprite-sheet-4x-no-grid_350
+  - first:
+      213: -9152908469771582245
+    second: mr-pinbo-sprite-sheet-4x-no-grid_351
+  - first:
+      213: 5727713408536282920
+    second: mr-pinbo-sprite-sheet-4x-no-grid_352
+  - first:
+      213: 6556696919308541734
+    second: mr-pinbo-sprite-sheet-4x-no-grid_353
+  - first:
+      213: -3457216501869307265
+    second: mr-pinbo-sprite-sheet-4x-no-grid_354
+  - first:
+      213: -8733422369264397188
+    second: mr-pinbo-sprite-sheet-4x-no-grid_355
+  - first:
+      213: 903843704000348886
+    second: mr-pinbo-sprite-sheet-4x-no-grid_356
+  - first:
+      213: -557147240885557798
+    second: mr-pinbo-sprite-sheet-4x-no-grid_357
+  - first:
+      213: 6761726600659143014
+    second: mr-pinbo-sprite-sheet-4x-no-grid_358
+  - first:
+      213: -8514618897025758183
+    second: mr-pinbo-sprite-sheet-4x-no-grid_359
+  - first:
+      213: -1235911156985458119
+    second: mr-pinbo-sprite-sheet-4x-no-grid_360
+  - first:
+      213: -545353180876889997
+    second: mr-pinbo-sprite-sheet-4x-no-grid_361
+  - first:
+      213: -3532686031777380680
+    second: mr-pinbo-sprite-sheet-4x-no-grid_362
+  - first:
+      213: -9099965249830523416
+    second: mr-pinbo-sprite-sheet-4x-no-grid_363
+  - first:
+      213: 4365865996209063904
+    second: mr-pinbo-sprite-sheet-4x-no-grid_364
+  - first:
+      213: -6762374342547734224
+    second: mr-pinbo-sprite-sheet-4x-no-grid_365
+  - first:
+      213: 2161011734182750559
+    second: mr-pinbo-sprite-sheet-4x-no-grid_366
+  - first:
+      213: 1537642491868421766
+    second: mr-pinbo-sprite-sheet-4x-no-grid_367
+  - first:
+      213: 2021453836893005863
+    second: mr-pinbo-sprite-sheet-4x-no-grid_368
+  - first:
+      213: -5676085941086634598
+    second: mr-pinbo-sprite-sheet-4x-no-grid_369
+  - first:
+      213: 9017222140953652827
+    second: mr-pinbo-sprite-sheet-4x-no-grid_370
+  - first:
+      213: 8481530949915403835
+    second: mr-pinbo-sprite-sheet-4x-no-grid_371
+  - first:
+      213: 1840440499119859842
+    second: mr-pinbo-sprite-sheet-4x-no-grid_372
+  - first:
+      213: 564757643277597590
+    second: mr-pinbo-sprite-sheet-4x-no-grid_373
+  - first:
+      213: 4644415315974506189
+    second: mr-pinbo-sprite-sheet-4x-no-grid_374
+  - first:
+      213: 284798000528553976
+    second: mr-pinbo-sprite-sheet-4x-no-grid_375
+  - first:
+      213: -1368133226516886107
+    second: mr-pinbo-sprite-sheet-4x-no-grid_376
+  - first:
+      213: 1821299306517866686
+    second: mr-pinbo-sprite-sheet-4x-no-grid_377
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6af88dbb475270800000000000000
+      internalID: 8239137320716627811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10e998ea69cfd60800000000000000
+      internalID: 7925375120642540020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e82d8c895af200800000000000000
+      internalID: 214582392452080320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a31ff941dca48a0800000000000000
+      internalID: -6320013638594643336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fef538792a8f0e0800000000000000
+      internalID: -2235858443361587333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e886d819fd2fb850800000000000000
+      internalID: 6394880543776213221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d24c284528abc0800000000000000
+      internalID: -3771723696012339958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_7
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac80223c2a03210800000000000000
+      internalID: 1310726450538138145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_8
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2251ca4569ebdad0800000000000000
+      internalID: -2676288932286475733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228acc94ee40e5990800000000000000
+      internalID: -7395468116608899038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_10
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd399c8049f419b0800000000000000
+      internalID: -5110185621526594108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1004
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cd20d777753f50800000000000000
+      internalID: 6860520963846293739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705b8092efb92290800000000000000
+      internalID: -7914583890318372739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 804
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e26c3b0d3f24090800000000000000
+      internalID: -8051605106090168700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 804
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95ce0c145bbe3d0800000000000000
+      internalID: -3176245818165536300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d8f9dacd86d410800000000000000
+      internalID: 1501543428154513105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70422327914d47520800000000000000
+      internalID: 2699015282456929287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebdf31ccfc294650800000000000000
+      internalID: 6217550224647248875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24361b642b3dabf90800000000000000
+      internalID: -6936999513367157950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd696f0d05723320800000000000000
+      internalID: 2536218239116602804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 604
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33dc34b6af773040800000000000000
+      internalID: 4627307496111657788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37eafb39ddb999d0800000000000000
+      internalID: -2766971755330607298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac7cae70a57c9f0800000000000000
+      internalID: -448290647849841951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92aad09115997100800000000000000
+      internalID: 106279968897147548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569eebb67eea0d200800000000000000
+      internalID: 202854292200024421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd400e21e40e78dd0800000000000000
+      internalID: -2483770043542797092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 404
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcfde52da538e90800000000000000
+      internalID: -7024671134186484325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1f3812ec7d0130800000000000000
+      internalID: 3534618593066949660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364c176068b94920800000000000000
+      internalID: 2975111753041200697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028fcdde665bac80800000000000000
+      internalID: -8310453653214363129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25853854d383d4c50800000000000000
+      internalID: 6651034060506486866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4936fd1bcdd460800000000000000
+      internalID: 7268188703191288422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 204
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09295b6692275d40800000000000000
+      internalID: 5572961093335722252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35faee9f30eda7040800000000000000
+      internalID: 4646270074245525331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfb93750b7c0130800000000000000
+      internalID: 3534335070923652445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3256bffa6cc6c0800000000000000
+      internalID: -4121801912442798112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr-pinbo-sprite-sheet-4x-no-grid_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9616bbff737fc10800000000000000
+      internalID: 2087198523809425844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

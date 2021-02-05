@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: fad20c1c2ffe2004188b82f1237392cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1538053540403526722
+    second: enemy-1-sprite-sheet-4x-no-grid_0
+  - first:
+      213: 2457874478915329557
+    second: enemy-1-sprite-sheet-4x-no-grid_1
+  - first:
+      213: -3487326176267109098
+    second: enemy-1-sprite-sheet-4x-no-grid_2
+  - first:
+      213: 2178127468445967909
+    second: enemy-1-sprite-sheet-4x-no-grid_3
+  - first:
+      213: -3124384379341895527
+    second: enemy-1-sprite-sheet-4x-no-grid_4
+  - first:
+      213: -7546407384454224072
+    second: enemy-1-sprite-sheet-4x-no-grid_5
+  - first:
+      213: -5109094980903157912
+    second: enemy-1-sprite-sheet-4x-no-grid_6
+  - first:
+      213: -2526952635060181727
+    second: enemy-1-sprite-sheet-4x-no-grid_7
+  - first:
+      213: 7630543295127820406
+    second: enemy-1-sprite-sheet-4x-no-grid_8
+  - first:
+      213: 4327476384148760798
+    second: enemy-1-sprite-sheet-4x-no-grid_9
+  - first:
+      213: -5752961753711939714
+    second: enemy-1-sprite-sheet-4x-no-grid_10
+  - first:
+      213: 2004595668935603000
+    second: enemy-1-sprite-sheet-4x-no-grid_11
+  - first:
+      213: 9127449652086575802
+    second: enemy-1-sprite-sheet-4x-no-grid_12
+  - first:
+      213: 3683267797243093454
+    second: enemy-1-sprite-sheet-4x-no-grid_13
+  - first:
+      213: -7949515518848162740
+    second: enemy-1-sprite-sheet-4x-no-grid_14
+  - first:
+      213: -1082092475187150911
+    second: enemy-1-sprite-sheet-4x-no-grid_15
+  - first:
+      213: 3163649134912041257
+    second: enemy-1-sprite-sheet-4x-no-grid_16
+  - first:
+      213: 1257148589139233412
+    second: enemy-1-sprite-sheet-4x-no-grid_17
+  - first:
+      213: 1723345808027592450
+    second: enemy-1-sprite-sheet-4x-no-grid_18
+  - first:
+      213: -5758164196429724907
+    second: enemy-1-sprite-sheet-4x-no-grid_19
+  - first:
+      213: 1960590739964001103
+    second: enemy-1-sprite-sheet-4x-no-grid_20
+  - first:
+      213: 558158064116201240
+    second: enemy-1-sprite-sheet-4x-no-grid_21
+  - first:
+      213: -3955222640251895514
+    second: enemy-1-sprite-sheet-4x-no-grid_22
+  - first:
+      213: -3748097871612974965
+    second: enemy-1-sprite-sheet-4x-no-grid_23
+  - first:
+      213: -6110906758186214837
+    second: enemy-1-sprite-sheet-4x-no-grid_24
+  - first:
+      213: -2081536576569446744
+    second: enemy-1-sprite-sheet-4x-no-grid_25
+  - first:
+      213: 1842857770332019259
+    second: enemy-1-sprite-sheet-4x-no-grid_26
+  - first:
+      213: 693006061288614008
+    second: enemy-1-sprite-sheet-4x-no-grid_27
+  - first:
+      213: 5620621281667404177
+    second: enemy-1-sprite-sheet-4x-no-grid_28
+  - first:
+      213: -1794827919826479876
+    second: enemy-1-sprite-sheet-4x-no-grid_29
+  - first:
+      213: -4652084495004586519
+    second: enemy-1-sprite-sheet-4x-no-grid_30
+  - first:
+      213: -3671094597224925025
+    second: enemy-1-sprite-sheet-4x-no-grid_31
+  - first:
+      213: -3570183119692804819
+    second: enemy-1-sprite-sheet-4x-no-grid_32
+  - first:
+      213: 9219982141931530153
+    second: enemy-1-sprite-sheet-4x-no-grid_33
+  - first:
+      213: 1450798962699019710
+    second: enemy-1-sprite-sheet-4x-no-grid_34
+  - first:
+      213: -3640891782374860935
+    second: enemy-1-sprite-sheet-4x-no-grid_35
+  - first:
+      213: -1739261104037466019
+    second: enemy-1-sprite-sheet-4x-no-grid_36
+  - first:
+      213: -5839997343245013717
+    second: enemy-1-sprite-sheet-4x-no-grid_37
+  - first:
+      213: 3975064442178964496
+    second: enemy-1-sprite-sheet-4x-no-grid_38
+  - first:
+      213: -3067137682741603778
+    second: enemy-1-sprite-sheet-4x-no-grid_39
+  - first:
+      213: 7926750743176725134
+    second: enemy-1-sprite-sheet-4x-no-grid_40
+  - first:
+      213: -7290673689860404005
+    second: enemy-1-sprite-sheet-4x-no-grid_41
+  - first:
+      213: -2434299813711210390
+    second: enemy-1-sprite-sheet-4x-no-grid_42
+  - first:
+      213: -2279884754633490136
+    second: enemy-1-sprite-sheet-4x-no-grid_43
+  - first:
+      213: 2768180187052742479
+    second: enemy-1-sprite-sheet-4x-no-grid_44
+  - first:
+      213: 2205429494444487122
+    second: enemy-1-sprite-sheet-4x-no-grid_45
+  - first:
+      213: 3921251167591456385
+    second: enemy-1-sprite-sheet-4x-no-grid_46
+  - first:
+      213: 8011021749799497090
+    second: enemy-1-sprite-sheet-4x-no-grid_47
+  - first:
+      213: -6521506839557755803
+    second: enemy-1-sprite-sheet-4x-no-grid_48
+  - first:
+      213: -7350208994387334686
+    second: enemy-1-sprite-sheet-4x-no-grid_49
+  - first:
+      213: 4643219557105305758
+    second: enemy-1-sprite-sheet-4x-no-grid_50
+  - first:
+      213: -1131723502801436802
+    second: enemy-1-sprite-sheet-4x-no-grid_51
+  - first:
+      213: -4271263599671357398
+    second: enemy-1-sprite-sheet-4x-no-grid_52
+  - first:
+      213: 7327172377089564659
+    second: enemy-1-sprite-sheet-4x-no-grid_53
+  - first:
+      213: 5974024522467416608
+    second: enemy-1-sprite-sheet-4x-no-grid_54
+  - first:
+      213: 8865654570347052221
+    second: enemy-1-sprite-sheet-4x-no-grid_55
+  - first:
+      213: 8799871758331246821
+    second: enemy-1-sprite-sheet-4x-no-grid_56
+  - first:
+      213: -3712918283817707691
+    second: enemy-1-sprite-sheet-4x-no-grid_57
+  - first:
+      213: -7437881762541512380
+    second: enemy-1-sprite-sheet-4x-no-grid_58
+  - first:
+      213: 6843974080153375582
+    second: enemy-1-sprite-sheet-4x-no-grid_59
+  - first:
+      213: 601088847208341698
+    second: enemy-1-sprite-sheet-4x-no-grid_60
+  - first:
+      213: 8190215021255613745
+    second: enemy-1-sprite-sheet-4x-no-grid_61
+  - first:
+      213: 7894495886615527486
+    second: enemy-1-sprite-sheet-4x-no-grid_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb849cb83485510800000000000000
+      internalID: 1538053540403526722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1f32f0df1c1220800000000000000
+      internalID: 2457874478915329557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d7dafb1578a9fc0800000000000000
+      internalID: -3487326176267109098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5262e3074634a3e10800000000000000
+      internalID: 2178127468445967909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9980c8fe5f4f3a4d0800000000000000
+      internalID: -3124384379341895527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-1-sprite-sheet-4x-no-grid_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 42.166668
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a8376776c54790800000000000000
+      internalID: -7546407384454224072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
